@@ -16,7 +16,7 @@
   "author": "Bensigo",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-express": "^1.1.2",
+    "apollo-server-express": "^2.14.2",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.1",
     "cors": "^2.8.4",
@@ -25,10 +25,10 @@
     "graphql-tools": "^1.2.2",
     "jsonwebtoken": "^8.0.1",
     "lodash": "^4.17.4",
-    "mongoose": "^4.11.12",
+    "mongoose": "^5.7.5",
     "mongoose-unique-validator": "^1.0.6",
     "morgan": "^1.8.2",
-    "passport": "^0.4.0",
+    "passport": "^0.6.0",
     "passport-jwt": "^3.0.0"
   },
   "devDependencies": {
