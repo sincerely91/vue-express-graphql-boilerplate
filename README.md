@@ -1,4 +1,4 @@
-# express-vue-graphQl-starterkit
+# express-vue-graphql-boilerplate
 A starter kit for express.js and vue.jS using graphql, apollo, MongoDB and vuetify for the UI
 ## SERVER  
 To start the sever side code, go to server dir and run the command 
